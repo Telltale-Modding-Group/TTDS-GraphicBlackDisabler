@@ -9,3 +9,20 @@ This mod disables graphic black entirely in the final season. The comparisons ca
 **I should note this currently only works for 'The Walking Dead Definitive Edition'.**
 
 This mod is compatible with the [Telltale Mod Launcher.](https://github.com/Telltale-Modding-Group/TelltaleModLauncher) and can be installed using the tool.
+
+## Comparisons
+
+**Enabled**
+![Screenshot 1e](screenshots/enabled1.png)
+**Disabled**
+![Screenshot 1d](screenshots/disabled1.png)
+
+**Enabled**
+![Screenshot 2e](screenshots/enabled2.png)
+**Disabled**
+![Screenshot 2d](screenshots/disabled2.png)
+
+**Enabled**
+![Screenshot 3e](screenshots/enabled3.png)
+**Disabled**
+![Screenshot 3d](screenshots/disabled3.png)
