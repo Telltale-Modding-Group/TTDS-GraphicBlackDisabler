@@ -9,6 +9,7 @@ This mod disables graphic black entirely in the final season. My biggest gripe a
 **I should note this currently only works for 'The Walking Dead Definitive Edition'.**
 
 **[Download the mod](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)**
+
 **This mod is compatible with the [Telltale Mod Launcher.](https://github.com/Telltale-Modding-Group/TelltaleModLauncher) and can be installed using the tool.**
 
 **Original Reddit Post [here](https://www.reddit.com/r/TheWalkingDeadGame/comments/hk795l/mod_twd_season_4_graphic_black_disabler/)**
