@@ -16,17 +16,17 @@ This mod disables graphic black entirely in the final season. My biggest gripe a
 
 ## Comparisons
 
-**Enabled**
+**Enabled (Without Mod)**
 ![Screenshot 1e](screenshots/enabled1.png)
-**Disabled**
+**Disabled (With Mod)**
 ![Screenshot 1d](screenshots/disabled1.png)
 
-**Enabled**
+**Enabled (Without Mod)**
 ![Screenshot 2e](screenshots/enabled2.png)
-**Disabled**
+**Disabled (With Mod)**
 ![Screenshot 2d](screenshots/disabled2.png)
 
-**Enabled**
+**Enabled (Without Mod)**
 ![Screenshot 3e](screenshots/enabled3.png)
-**Disabled**
+**Disabled (With Mod)**
 ![Screenshot 3d](screenshots/disabled3.png)
