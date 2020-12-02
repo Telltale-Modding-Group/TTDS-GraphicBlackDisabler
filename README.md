@@ -1,12 +1,12 @@
 # Graphic Black Disabler for S4
 
-##DISCLAIMER
+## DISCLAIMER
 
 **This currently only works for 'The Walking Dead Definitive Edition'.**
 **If you wish to get the mod, get it here (not the source code) [MOD LINK](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)**
 **Install this mod using the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher).**
 
-##About
+## About
 
 **This is Graphic Black Disabler mod for S4 (The Walking Dead Telltale Definitive Edition)**
 
