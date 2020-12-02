@@ -4,7 +4,7 @@
 
 **This only works for 'The Walking Dead Telltale Definitive Edition'.**
 
-**If you wish to get the mod, get it here (not the source code) [MOD LINK](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)**
+**If you wish to get the mod, get it here [MOD LINK](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)**
 
 **Install this mod using the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher).**
 
