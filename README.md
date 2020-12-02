@@ -1,11 +1,13 @@
 # Graphic Black Disabler for S4
 
 ##DISCLAIMER
+
 **This currently only works for 'The Walking Dead Definitive Edition'.**
 **If you wish to get the mod, get it here (not the source code) [MOD LINK](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)**
 **Install this mod using the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher).**
 
 ##About
+
 **This is Graphic Black Disabler mod for S4 (The Walking Dead Telltale Definitive Edition)**
 
 NOW before you begin wondering you might be asking yourself, "Dude, can't you disable graphic black through the options menu?". The answer is **no**, not for TWD S4. You can only disable it in all of the previous seasons (formerly S1, S2, S3, and Michonne) but not the final season.
