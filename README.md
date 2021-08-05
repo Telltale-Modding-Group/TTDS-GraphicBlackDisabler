@@ -1,11 +1,52 @@
 # Graphic Black Disabler for S4
 
+### [Download the Mod here](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)
+
+### Install this mod using the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher).
+
+## DISCLAIMER
+
+**This only works for 'The Walking Dead Telltale Definitive Edition'.**
+
+## About
+
 **This is Graphic Black Disabler mod for S4 (The Walking Dead Telltale Definitive Edition)**
 
-NOW before you begin wondering you might be asking yourself, "Dude, can't you disable graphic black through the options menu?". The answer is **no**, not for TWD S4. You can only disable it in all of the previous seasons (formerly S1, S2, S3, and Michonne) but not the final season.
+In the Definitive Series there is a post effect introduced called Graphic Black, and it can be disabled in Season 1, Season 2, Season 3, and Michone, but it cannot be disabled in Season 4. This mod forcibly disables Graphic Black for Season 4, allowing true graphical uniformity across the games for those who wish to play without the post effect.
 
-This mod disables graphic black entirely in the final season. The comparisons can be found [here](https://www.reddit.com/r/TheWalkingDeadGame/comments/hk795l/mod_twd_season_4_graphic_black_disabler/) My biggest gripe about graphic black is how destructive it is with shadow detail, and not to mention how the additional LUT that is applied after the fact further limits the color palette of the final image (TFS also has an orange-green graduated filter that primarily gives a green hue to the image which I find undesirable). Disabling the graphic black allows the details in shadows to be preserved once again, while also removing those additional effects to make colors look by far more natural then they previously were.
+***Why disable Graphic Black?*** Graphic Black is incredibly destructive with its shadow details, turning pixels to pure black beyond a certain threshold in an attempt to emulate the inking used in comic books. Thereby eliminating any detail that can be perceived in the shadows. In addition, there is are additional color corrections that are applied that limit the overall color palette of the image, with the addition of an often-used green-brown graduated filter. When you disable graphic black, you allow the details in the shadows to be preserved once again, while eliminating the graduated filters, additional color correction, and the inking effect applied to the image, allowing it to appear more naturalistic once again in its dynamic range and color detail. ***Comparisons can be found if you scroll to the bottom of this document.***
 
-**I should note this currently only works for 'The Walking Dead Definitive Edition'.**
+**[Original Reddit Post](https://www.reddit.com/r/TheWalkingDeadGame/comments/hk795l/mod_twd_season_4_graphic_black_disabler/)**
 
-This mod is compatible with the [Telltale Mod Launcher.](https://github.com/Telltale-Modding-Group/TelltaleModLauncher) and can be installed using the tool.
+## Download
+
+**[Download the mod](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)**
+
+**This mod is compatible with the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher) and can be installed using the tool.**
+
+## Editing/Modifying
+
+***For Modders/Developers Only***
+
+**You are free to download the source code and edit/use it as you wish using the [Telltale Script Editor](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor)!** You can even fork this repository to create your own version of this mod. *Just note to be mindful and edit the .tsproj file to change the author to your name and not mine in notepad or another text editor.*
+
+To Edit/Modify this project, be sure to either download this repository or go to the releases tab and download the "Source code.zip" file. Then extract and open the project using the [Telltale Script Editor](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor) and edit the code as you wish!
+
+NOTE: This project was built using the [Telltale Script Editor Alpha 1.1.0](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor)
+
+## Comparisons
+
+**Enabled (Without Mod)**
+![Screenshot 1e](screenshots/enabled1.png)
+**Disabled (With Mod)**
+![Screenshot 1d](screenshots/disabled1.png)
+
+**Enabled (Without Mod)**
+![Screenshot 2e](screenshots/enabled2.png)
+**Disabled (With Mod)**
+![Screenshot 2d](screenshots/disabled2.png)
+
+**Enabled (Without Mod)**
+![Screenshot 3e](screenshots/enabled3.png)
+**Disabled (With Mod)**
+![Screenshot 3d](screenshots/disabled3.png)
