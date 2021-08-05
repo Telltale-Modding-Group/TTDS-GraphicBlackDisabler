@@ -1,11 +1,12 @@
 {
   "formatVersion": "1",
   "tool": {
-    "game": "TTDS"
+    "game": "GraphicBlackDisabler"
   },
   "mod": {
     "name": "GraphicBlackDisabler",
     "version": "1.0",
-    "author": "changemymindpls1"
+    "author": "changemymindpls1",
+    "priority": 950
   }
 }
